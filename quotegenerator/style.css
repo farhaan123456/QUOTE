@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#nav{
+    display: flex;
+ 
+    height: 20px;
+    padding-top: 22px;
+    
+}
+
+h1{
+    padding-top: 28px;
+}
+#main-container{
+    background-color: rgba(10, 2, 77, 0.959);
+    height: 55px;
+    
+}
+.top{
+    margin-left: 75%;
+    background-color: rgb(255, 187, 0);
+    width: 100px;
+    border-radius: 4px ;
+    text-align: center;
+    display: flex; 
+    justify-content: center;
+ 
+}
+
+img{
+    
+    height: 40px;
+    margin-top: -13px;
+    padding-left: 50px;
+    
+}
+.pic{
+    display: flex;
+}
+h1{
+   margin-left: 33%;
+   margin-top: 20px;
+   font-size: 40px;
+}
+.box-1{
+    height: 443%;
+    width: 80%;
+    background-color: rgb(240, 240, 245);
+    margin-left: 11%;
+    border: 25px solid white;
+    box-shadow: 1px 1px 1px 1px;
+    border-radius: 5px;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 55px;
+    padding-top: 10px;
+    justify-content: center;
+}
+.box-2{
+    height: 45px;
+    margin-top: 25px;
+    margin-left: 11%;
+    width: 84%;
+    border-radius: 4px ;
+    background-color:  rgb(255, 187, 0);
+    font-size: 20px;
+    padding-right: 30px;
+}
+.box-3{
+    margin-left: 11%;
+    margin-top: 15px;
+
+}
+.name{
+    width: 94%;
+    height: 35px;
+}
+#name-1{
+    width: 46%;
+    height: 35px;
+}
+.box-4{
+    margin-top: 23px;
+    margin-left: 11%;   
+}
+
+
+ .box-5{
+    height: 35px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    width: 46.9%;
+    border-radius: 4px ;
+    background-color:  rgb(255, 187, 0);
+    font-size: 17px;
+    
+} 
